@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Software de Hacking Avanzado",
+      "description": "Potente software para realizar ataques avanzados y pruebas de penetración",
+      "price": 2500,
+      "currency": "ARS",
+      "img": "https://www.somosbinarios.es/wp-content/uploads/2015/01/url.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Máscara Default",
+      "description": "Máscara diseñada para ocultar tu identidad mientras realizas operaciones en línea",
+      "price": 1500,
+      "currency": "ARS",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_833408-MLA53855490982_022023-O.webp"
+    },
+    {
+      "id": 3,
+      "name": "Kit de Hardware para Hackers",
+      "description": "Colección de dispositivos de hardware especializados para realizar ataques físicos",
+      "price": 3500,
+      "currency": "ARS",
+      "img": "https://ar.mouser.com/images/crowdsupply/lrg/tigard-kit-v1_SPL.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Curso de Hacking Ético",
+      "description": "Aprende técnicas de hacking ético y fortalece tus habilidades en seguridad informática",
+      "price": 2000,
+      "currency": "ARS",
+      "img": "https://img-c.udemycdn.com/course/750x422/3778720_8a2d_2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "VPN Segura",
+      "description": "Servicio de VPN de alta seguridad para proteger tu privacidad y anonimato en línea",
+      "price": 500,
+      "currency": "ARS",
+      "img": "https://play-lh.googleusercontent.com/jGWTmzRGONph6Z8Df6JRuTVbBrL8-k-Tdx6CDzJblf5Rcxr914wZxrdCn6G2Jta0kks"
+    },
+    {
+      "id": 6,
+      "name": "Libro: The Hacker's Guide",
+      "description": "Guía completa para convertirte en un hacker experto en seguridad informática",
+      "price": 800,
+      "currency": "ARS",
+      "img": "https://m.media-amazon.com/images/I/41dzIA+G0cL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+  
